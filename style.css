@@ -1,0 +1,28 @@
+body{
+    background-color: #e056fd;
+}
+h1{
+    text-align: center;
+    word-spacing: 5px;
+    letter-spacing: 3px;   
+}
+div{
+    margin: auto;
+    border: black solid 1px;
+    width: 600px;
+    height: 600px;
+    background-color: blue;
+}
+label{
+    padding-left: 10px;
+    color: #16a085;
+}
+.i1{
+    width: 570px;
+    margin-left: 10px;
+}
+button{
+    width: 570px;
+    height: 40px;
+    margin-left: 10px;   
+}
